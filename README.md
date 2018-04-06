@@ -19,5 +19,5 @@ file_name-(usage)-resolution[attribute1][attribute2]-resolution[attribute1][attr
 ```
 hale_bopp_1-(invalidCrop240p)-480p[yuv420p][mpeg1]-noadu-nosub.mpg
 sintel_trailer-(base)-480p[yuv420p][x264]-2ch[aac]-nosub.mp4
-big_buck_bunny_trailer-(upconvert)-480p[yuv420p][x264]-2ch[aac]-pgs.mp4
+hancock_trailer-(upconvert)-480p[yuv420p][x264]-2ch[aac]-pgs.mp4
 ```
